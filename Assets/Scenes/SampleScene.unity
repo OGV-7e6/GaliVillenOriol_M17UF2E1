@@ -175,6 +175,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Scene
       objectReference: {fileID: 0}
+    - target: {fileID: 8898805941635572812, guid: 0decdf0f9958ecb45bf4fb4dbb7aa1c1, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 8898805941635572813, guid: 0decdf0f9958ecb45bf4fb4dbb7aa1c1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 7482667652216324306, guid: 2693f6630ece40145b0cf31de4996865, type: 3}
+    - target: {fileID: 8898805941635572813, guid: 0decdf0f9958ecb45bf4fb4dbb7aa1c1, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
